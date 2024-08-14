@@ -26,7 +26,7 @@
 
 - **Importance of analyzing Finance data:** Establish benchmarks against industry standards and previous performance, providing a foundation for accurate budgeting and forecasting.
 
-- **Role of reports:** nsure financial strategies are aligned with overarching business objectives, fostering confidence in the organization's financial projections.
+- **Role of reports:** Ensure financial strategies are aligned with overarching business objectives, fostering confidence in the organization's financial projections.
 
 ## Technical & Soft Skills:
 - [x]	Mastery of ETL (Extract, Transform, Load) processes.
